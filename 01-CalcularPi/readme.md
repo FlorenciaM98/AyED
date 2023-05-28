@@ -1,3 +1,2 @@
-Nombre y apelido
-Curso
-Que compilador
+Florencia Molle
+K1102
